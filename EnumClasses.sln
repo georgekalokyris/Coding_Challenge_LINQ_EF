@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumClasses", "EnumClasses\EnumClasses.csproj", "{C57409F3-4DE9-47AC-B91D-2FEB13B3CAB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseProductsClients", "ExerciseProductsClients\ExerciseProductsClients.csproj", "{AC23D432-1487-4A5D-A4D8-3C133EA0C562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57409F3-4DE9-47AC-B91D-2FEB13B3CAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57409F3-4DE9-47AC-B91D-2FEB13B3CAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57409F3-4DE9-47AC-B91D-2FEB13B3CAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57409F3-4DE9-47AC-B91D-2FEB13B3CAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC23D432-1487-4A5D-A4D8-3C133EA0C562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC23D432-1487-4A5D-A4D8-3C133EA0C562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC23D432-1487-4A5D-A4D8-3C133EA0C562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC23D432-1487-4A5D-A4D8-3C133EA0C562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD7E95C-AF5A-435D-9424-DFB905AEBF44}
+	EndGlobalSection
+EndGlobal
